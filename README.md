@@ -2,7 +2,9 @@
 
 A cinematic, scroll-driven landing page for a private jet charter brand, built with **React**, **TypeScript**, and **Tailwind CSS**. Combines a canvas-based frame-sequence animation with buttery-smooth scrolling to create an immersive, editorial-style luxury aviation experience.
 
-🔗 **Live Demo:** 
+![Image](https://github.com/WarrenBillTT/Aeroluxe/blob/main/aeroluxe.png)
+
+🔗 **Live Demo:** https://aeroluxe-wb.vercel.app/
 
 ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-6-3178C6?logo=typescript&logoColor=white)
